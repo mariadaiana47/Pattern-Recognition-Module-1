@@ -166,20 +166,6 @@ The system evaluates two key metrics:
 - Cosine similarity often performs well for face recognition
 - Increasing k in KNN can improve stability but may reduce accuracy
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements!
-
-## 📄 License
-
-This project is available for educational purposes.
-
-## 👤 Author
-
-Maria
-
----
-
 **Database**: ORL Face Database  
-**Language**: Python 3.x  
+**Language**: Python 3.12.  
 **Focus**: Computer Vision, Pattern Recognition, Machine Learning
